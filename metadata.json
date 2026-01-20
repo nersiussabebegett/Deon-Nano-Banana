@@ -1,0 +1,7 @@
+{
+  "name": "BananaFlow Image Studio",
+  "description": "A professional workflow-based image generation system using Gemini Nano Banana models with support for multiple aspect ratios, styles, and character consistency.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
